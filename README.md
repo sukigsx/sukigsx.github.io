@@ -12,11 +12,6 @@ Este script está pensado para ayudarte a la configuración y gestión de Ocamlf
 
 [Mas informacion del script](https://github.com/sukigsx/Googledrive-ocamlfuse) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/Googledrive-ocamlfuse/raw/main/Googledrive-ocamlfuse.deb)
 
-### Listado de servicios
-Con este script, podras controlar de forma muy simple los servicios de tu maquina, asi como poder instalar servicios nuevos y poder desistalar los que ya tengas en tu maquina.
-
-[Mas informacion del script](https://github.com/sukigsx/Instalacion-software/blob/main/README.md) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/servicios/raw/main/servicios.deb)
-
 ### Instalacion-software
 Con este script, podras automatizar tus instalaciones de GNU Linux, esta probado en entornos Debian.
 
@@ -26,16 +21,6 @@ Con este script, podras automatizar tus instalaciones de GNU Linux, esta probado
 Este script esta pensado para realizar backup de la configuracion de tu escritorio. Esta probado en entorno Gnome y Plasma. Solo copia la configuracion, NO LOS DATOS.
 
 [Mas informacion del script](https://github.com/sukigsx/Backup-esritorio/blob/main/README.md) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/Backup-esritorio/raw/main/Backup-escritorio.deb)
-
-### Servidor-web-archivos
-
-Con este script, podras montar de forma muy rapida y sencilla un servidor de archivos visible desde unn navegador.
-
-Puede ser util para compartir de forma rapida y sencilla a otros ordenadores de la red e incluso pasar ficheros a un movil o tablet.
-
-Tambien se puede ejecutar el script en un movil con android y montar el servidor en tu propio movil y compartir ficheros.
-
-[Mas informacion del script](https://github.com/sukigsx/Servidor-web-archivos/blob/main/README.md) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/Servidor-web-archivos/raw/main/Servidor-web-archivos.deb)
 
 ----------------------
 # Sobre mi !!!!
