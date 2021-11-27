@@ -7,7 +7,14 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 
 # SCRIPTS
 
+### Montar Unidades
+
+Este script lo que hace, es automatizar el proceso de montar unidades en tu distro de linux, escanea tu red y busca servidores de archivos que utilizan el protocolo SAMBA.
+
+[Mas informacion del script](https://github.com/sukigsx/Montar_Unidades/blob/main/README.md) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/Montar_Unidades/raw/main/Montar-Unidades.deb)
+
 ### Googledrive-ocamlfuse
+
 Este script está pensado para ayudarte a la configuración y gestión de Ocamlfuse. Con el podras gestionar tus conexiones de Google drive de una forma sencilla.
 
 [Mas informacion del script](https://github.com/sukigsx/Googledrive-ocamlfuse) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/Googledrive-ocamlfuse/raw/main/Googledrive-ocamlfuse.deb)
