@@ -7,6 +7,14 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 
 # SCRIPTS
 
+### Intrusos
+
+Este script lo que hace, es comprobar los intrusos o ip's no deseadas en tu red lan/wifi
+
+[Mas informacion del script](https://github.com/sukigsx/Intrusos/blob/main/README.md) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/Intrusos/raw/main/Intrusos.deb)
+
+
+
 ### Montar Unidades
 
 Este script lo que hace, es automatizar el proceso de montar unidades en tu distro de linux, escanea tu red y busca servidores de archivos que utilizan el protocolo SAMBA.
