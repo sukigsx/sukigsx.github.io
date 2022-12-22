@@ -7,6 +7,16 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 
 # SCRIPTS
 
+### control_bd_digikam
+
+Este script esta pensado para solucionar un problema con el programa de fotografia Digikam.
+
+El problema es el siguiente. Digikam funciona perfectamente pero con una base de datos en la cual estan todos los datos de tus fotos
+como son las etiquetas, las estrellas, etc. Pues bien, esa base de datos lo normar es tenerla en tu maquina local para que sea mas fluido
+el funcionamiento del mismo.
+
+[Mas informacion del script](https://github.com/sukigsx/control_bd_digikam/blob/main/README.md) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/control_bd_digikam/raw/main/Control-bd-digikam.deb)
+
 ### Intrusos
 
 Este script lo que hace, es comprobar los intrusos o ip's no deseadas en tu red lan/wifi
