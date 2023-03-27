@@ -7,6 +7,15 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 
 # SCRIPTS
 
+### Screar
+
+Utilidad de creacion de scripts y apuntes de tu codigo.
+
+Podras apuntar tu codigo en ficheros independientes.
+Te serviran como apuntes y a su vez podras incluirlos en tus nuevos scripts.
+
+[Mas informacion del script](https://github.com/sukigsx/screar/blob/main/README.md) --- [Descarga del paquete de instalacion](https://github.com/sukigsx/screar/raw/main/Screar.deb)
+
 ### control_bd_digikam
 
 Este script esta pensado para solucionar un problema con el programa de fotografia Digikam.
