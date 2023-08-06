@@ -7,6 +7,16 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 
 # SCRIPTS
 
+### funciones_alias_bashrc
+
+Este script esta pensado para la creacion de alias en tu sistema linux.
+
+Con el cual podras crear, modificar y borrar tus alias de manera sencilla sin tener que hacerlo manualmente modificando el ichero .bashrc de tu sistema linux.
+
+Su funcionamiento es muy simple: Carga un fichero de funciones de control del script al iniciar tu terminal y con ella puedes relizar todas las funcionalidades de este script.
+
+[Mas informacion del script](https://github.com/sukigsx/funciones_alias_bashrc/blob/main/README.md)
+
 ### control_bd_digikam
 
 Este script esta pensado para solucionar un problema con el programa de fotografia Digikam.
