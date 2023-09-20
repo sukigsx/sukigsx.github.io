@@ -7,11 +7,14 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 
 # SCRIPTS
 
-### estoy en construccion
+### funciones_alias_bashrc
 
-Estoy en construccion
+Crea, modifica y opera tus alias en linux.
 
-[Mas informacion del script](https://github.com/sukigsx/funciones_alias_bashrc/blob/main/README.md)
+Este script de funciones_alias_bashrc, podras hacer y crear tus funciones de manera muy facil. Solo tienes que ejecutar los comandos de las funciones para crear alias, borrar alias y listarlos de manera sencilla.
+
+
+[Mas informacion del script](https://github.com/sukigsx/funciones_alias_bashrc#readme)
 
 
 
