@@ -7,6 +7,13 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 
 # SCRIPTS
 
+### ejecutar_scripts
+
+El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
+Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts/blob/main/README.md)
+
+
+
 ### funciones_alias_bashrc
 
 Crea, modifica y opera tus alias en linux.
