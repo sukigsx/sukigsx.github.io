@@ -12,9 +12,14 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
 
 
-[Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts/blob/main/README.md)
+[Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts)
+
+### montar unidades
+
+El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
 
 
+[Mas informacion del script](https://github.com/sukigsx/montar_unidades)
 
 ### funciones_alias_bashrc
 
