@@ -16,7 +16,7 @@ El script proporcionado es una herramienta interactiva que permite a los usuario
 
 ### montar unidades
 
-El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
+Este script de Bash es un programa interactivo que proporciona una interfaz de usuario para configurar y gestionar el montaje automático de unidades compartidas de un servidor Samba en un sistema Linux.
 
 
 [Mas informacion del script](https://github.com/sukigsx/montar_unidades)
