@@ -5,34 +5,40 @@ Espero os gusten y que os sean utiles para realizar cuestras tareas y gestiones.
 
 -----------------------
 
-# SCRIPTS
-
-### ejecutar_scripts
+## EJECUTAR SCRIPTS
 
 El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
 
 
 [Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts)
 
-### montar unidades
+## MONTAR UNIDADES
 
 Este script de Bash es un programa interactivo que proporciona una interfaz de usuario para configurar y gestionar el montaje automático de unidades compartidas de un servidor Samba en un sistema Linux.
 
 
 [Mas informacion del script](https://github.com/sukigsx/montar_unidades)
 
-### funciones_alias_bashrc
+## INSTALAR SOFTWARE
 
-Crea, modifica y opera tus alias en linux.
+Este script esta pensado para la instalacion de software de forma automatizada.
 
-Este script de funciones_alias_bashrc, podras hacer y crear tus funciones de manera muy facil. Solo tienes que ejecutar los comandos de las funciones para crear alias, borrar alias y listarlos de manera sencilla.
+- Actualizar el sistema en entornos gnome y plasma por apt.
+- Poder instalar otras maquinas de forma remota por ssh.
+- Instalacion de repositorios.
+- Instalacion de una gran cantidad de software incluida en repositorios.
+- Instalacion software externo a los repositorios de forma automatica.
+- Buscar equipos por tu red, para poder instalar en remoto.
+- Conectar a equipo de red por ssh.
+- Ejecuta una terminal de comandos.
+- Instalacion en equipos remotos.
 
 
-[Mas informacion del script](https://github.com/sukigsx/funciones_alias_bashrc#readme)
+[Mas informacion del script](https://github.com/sukigsx/instalar_software)
 
 
 
-### Soporte y Contacto
+## Soporte y Contacto
 
 Puedes ponerte en contacto en mi [Correo Electronico](mailto:scripts@mbbsistemas.es).
 
