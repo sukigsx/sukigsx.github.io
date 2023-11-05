@@ -36,7 +36,23 @@ Este script esta pensado para la instalacion de software de forma automatizada.
 
 [Mas informacion del script](https://github.com/sukigsx/instalar_software)
 
+## alias_bashrc
 
+Este script en bash proporciona varias funciones para gestionar alias en un sistema Linux. Aquí está el resumen de lo que hace cada función:
+
+- opciones_alias
+- actualizar_alias
+- desistalar_alias
+- listar_alias
+- crear_alias
+- borrar_alias
+- editar fichero de alias
+- menu_alias
+- backup_alias
+- restore_alias
+
+
+[Mas informacion del script](https://github.com/sukigsx/alias_bashrc)
 
 ## Soporte y Contacto
 
