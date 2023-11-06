@@ -54,6 +54,13 @@ Este script en bash proporciona varias funciones para gestionar alias en un sist
 
 [Mas informacion del script](https://github.com/sukigsx/alias_bashrc)
 
+## ORGANIZADOR DE FICHEROS
+
+Este script es útil para organizar archivos por tipo en diferentes carpetas dentro de un directorio de destino, facilitando la gestión y clasificación de los archivos.
+
+
+[Mas informacion del script](https://github.com/sukigsx/organizador_ficheros)
+
 # Soporte y Contacto
 
 Puedes ponerte en contacto en mi [Correo Electronico](mailto:scripts@mbbsistemas.es).
