@@ -65,6 +65,18 @@ Este script es útil para organizar archivos por tipo en diferentes carpetas den
 
 Este script en Bash es un programa que permite comprobar la red local en busca de intrusos.
 
+## Opciones del menu principal:
+
+- Crear el fichero de IPs permitidas.
+- Ver el fichero de IPs permitidas.
+- Borrar el fichero de IPs permitidas.
+- Editar/Añadir IPs al fichero de IPs permitidas.
+- Escanear la red en busca de intrusos.
+- Instalar un servicio para comprobación automática.
+- Borrado de datos.
+- Mostrar ayuda.
+- Salir.
+
 
 [Mas informacion del script](https://github.com/sukigsx/intrusos)
 
