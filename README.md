@@ -105,6 +105,21 @@ Opciones del Menú:
 
 [Mas informacion del script](https://github.com/sukigsx/dispositivos_conectados)
 
+## CONFIGURAR SSHD
+
+Este script en Bash es para configurar opciones específicas del servidor SSH de una manera interactiva. A continuación, se proporciona una descripción detallada de su funcionamiento:
+
+- Realiza la conexión a Internet y, si hay conexión, verifica e instala el software necesario.
+- Luego, verifica y actualiza el script si es necesario.
+- Después, presenta un menú interactivo al usuario con varias opciones relacionadas con la configuración del servidor SSH.
+- Las opciones del menú permiten activar o desactivar la autenticación por contraseña en el servidor SSH.
+- También muestra información sobre el estado de la configuración, la conexión a Internet, la instalación del software y la actualización del script.
+- El menú se ejecuta en un bucle hasta que el usuario elige salir (opción 99).
+
+Se iran añadiendo nuevas opciones al menu
+
+[Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts)
+
 
 # Soporte y Contacto
 
