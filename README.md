@@ -118,7 +118,7 @@ Este script en Bash es para configurar opciones específicas del servidor SSH de
 
 Se iran añadiendo nuevas opciones al menu
 
-[Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts)
+[Mas informacion del script](https://github.com/sukigsx/configurar_sshd)
 
 
 # Soporte y Contacto
