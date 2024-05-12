@@ -5,9 +5,19 @@ Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 
 -----------------------
 
+## MEGATOOLS
+
+Esta utilidad desarrolladoa en bash proporciona una forma conveniente para que el usuario interactúe con el programa.
+Seleccionando opciones del menú y realizando diferentes tareas relacionadas con la gestión del sistema y la obtención de información.
+
+
+[Mas informacion del script](https://github.com/sukigsx/MegaTools_gui)
+
 ## EJECUTAR SCRIPTS
 
 El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
+
+Tambien permite la instalacion de los script de SUKIGSX, alojados en este repositorio.
 
 
 [Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts)
