@@ -5,9 +5,12 @@ Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 
 -----------------------
 
-## MEGATOOLS
+### MEGATOOLS
 
-Esta utilidad desarrolladoa en bash proporciona una forma conveniente para que el usuario interactúe con el programa.
+# esteunoi
+que terminal
+
+Esta utilidad desarrollada en bash proporciona una forma conveniente para que el usuario interactúe con el programa.
 Seleccionando opciones del menú y realizando diferentes tareas relacionadas con la gestión del sistema y la obtención de información.
 
 
