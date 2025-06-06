@@ -7,20 +7,18 @@ Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 
 ## Linux User Manager
 
-# Linux User Manager
-
 Este script en **Bash** es una herramienta interactiva para gestionar usuarios, carpetas compartidas, permisos y configuración de **Samba** en sistemas **Linux**.
 
 ---
 
-## 🛠 Funcionalidad Principal
+ 🛠 Funcionalidad Principal
 
 - **Nombre:** Linux User Manager
 - **Propósito:** Configurar y administrar usuarios, directorios compartidos, permisos de acceso y Samba para compartir archivos en red.
 
 ---
 
-## ✅ Requisitos y Verificaciones
+ ✅ Requisitos y Verificaciones
 
 - **Ejecutado como root:**
   Verifica si se tienen privilegios administrativos. Si no, solicita autenticación mediante `sudo`.
@@ -36,7 +34,7 @@ Este script en **Bash** es una herramienta interactiva para gestionar usuarios, 
 
 ---
 
-## 📁 Gestión de Carpeta Base
+ 📁 Gestión de Carpeta Base
 
 - Solicita al usuario una ruta para la carpeta base que contendrá los recursos compartidos.
 - Si no existe la ruta, permite crearla automáticamente.
@@ -44,7 +42,7 @@ Este script en **Bash** es una herramienta interactiva para gestionar usuarios, 
 
 ---
 
-## 📋 Interfaz de Menú Interactivo
+ 📋 Interfaz de Menú Interactivo
 
 Muestra un menú desde donde el usuario puede:
 
@@ -58,13 +56,13 @@ Muestra un menú desde donde el usuario puede:
 
 ---
 
-## 🧹 Limpieza y Salida
+ 🧹 Limpieza y Salida
 
 - Al presionar `Ctrl+C` o elegir la opción de salir, elimina archivos temporales y muestra un mensaje de despedida.
 
 ---
 
-## 📝 Resumen
+ 📝 Resumen
 
 Este script está diseñado para facilitar tareas comunes de administración de usuarios y compartición de archivos en redes locales.
 Es especialmente útil en entornos educativos, pequeñas oficinas o para usuarios que deseen automatizar configuraciones de red local.
