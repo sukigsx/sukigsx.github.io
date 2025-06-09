@@ -20,6 +20,8 @@ Verificar si hay conexión a internet.
 Ofrecer un menú interactivo con opciones como conectar, agregar, editar, eliminar servidores, hacer backups, restaurarlos, y crear un alias para acceso rápido.
 Además, incluye manejo de señales como Ctrl+C para salir limpiamente, y está pensado para ser fácil de usar incluso si no se tiene mucha experiencia con Bash.
 
+[Mas informacion del script](https://github.com/sukigsx/GestorConexionesSsh)
+
 ## Linux User Manager
 
 Este script en **Bash** es una herramienta interactiva para gestionar usuarios, carpetas compartidas, permisos y configuración de **Samba** en sistemas **Linux**.
