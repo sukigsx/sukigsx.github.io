@@ -164,10 +164,14 @@ Actualizador dinámico de DNS (DDNS) que utiliza la API de Cloudflare para mante
 A continuación, se describe su funcionamiento:
 
 - Variables de configuración:
-    Configura credenciales de acceso a Cloudflare (AUTH_EMAIL, AUTH_KEY, etc.), el dominio, subdominios, TTL, y opciones de proxy. Define los datos para enviar notificaciones a Slack/Discord. Comprobación periódica de la IP pública:
-- Obtiene la IP pública actual usando Cloudflare o servicios como api.ipify.org. Verifica si la IP es válida mediante un regex. Consulta de registros DNS
-- Recorre la lista de subdominios definidos en RECORD_NAMES. Obtiene el registro DNS tipo A del subdominio usando la API de Cloudflare. Si el registro no existe, informa el error. Actualización de registros DNS:
-    Si la IP pública actual difiere de la IP almacenada en el registro DNS, la actualiza mediante la API de Cloudflare. Envía notificaciones a Slack o Discord sobre el estado de la actualización. Bucle infinito:
+    Configura credenciales de acceso a Cloudflare (AUTH_EMAIL, AUTH_KEY, etc.), el dominio, subdominios, TTL, y opciones de proxy.
+    Define los datos para enviar notificaciones a Slack/Discord.
+
+- Comprobación periódica de la IP pública. Obtiene la IP pública actual usando Cloudflare o servicios como api.ipify.org. Verifica si la IP es válida           mediante un regex. Consulta de registros DNS
+
+- Recorre la lista de subdominios definidos en RECORD_NAMES. Obtiene el registro DNS tipo A del subdominio usando la API de Cloudflare. Si el registro no existe, informa el error.
+
+- Actualización de registros DNS. Si la IP pública actual difiere de la IP almacenada en el registro DNS, la actualiza mediante la API de Cloudflare. Envía notificaciones a Slack o Discord sobre el estado de la actualización. Bucle infinito:
 
 - Repite las comprobaciones y actualizaciones cada cierto tiempo, definido por TIEMPO_COMPROBAR_IPS. Este script automatiza el mantenimiento de registros DNS para conexiones con IP dinámica.
 
