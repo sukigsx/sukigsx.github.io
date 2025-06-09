@@ -14,7 +14,7 @@ Es especialmente útil en entornos educativos, pequeñas oficinas o para usuario
 
 [Mas informacion del script](https://github.com/sukigsx/LinuxUserManager)
 
-## Megatools
+## MegaTools_gui
 
 Esta utilidad desarrollada en bash proporciona una forma conveniente para que el usuario interactúe con el programa.
 Seleccionando opciones del menú y realizando diferentes tareas relacionadas con la gestión del sistema y la obtención de información.
@@ -26,8 +26,9 @@ Seleccionando opciones del menú y realizando diferentes tareas relacionadas con
 
 El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
 
-Tambien permite la instalacion de los script de SUKIGSX, alojados en este repositorio.
+Tambien permite la instalacion de los script de SUKIGSX, alojados en su repositorio.
 
+En resumen: ejecutar_scripts.sh es tu “gestor de scripts” personal con autoinstalador, auto-update y una interfaz tipo menú que simplifica copiar, ejecutar, guardar o limpiar tus utilidades Bash desde un solo punto.
 
 [Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts)
 
