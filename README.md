@@ -14,7 +14,7 @@ Es especialmente útil en entornos educativos, pequeñas oficinas o para usuario
 
 [Mas informacion del script](https://github.com/sukigsx/LinuxUserManager)
 
-## MEGATOOLS
+## Megatools
 
 Esta utilidad desarrollada en bash proporciona una forma conveniente para que el usuario interactúe con el programa.
 Seleccionando opciones del menú y realizando diferentes tareas relacionadas con la gestión del sistema y la obtención de información.
@@ -22,7 +22,7 @@ Seleccionando opciones del menú y realizando diferentes tareas relacionadas con
 
 [Mas informacion del script](https://github.com/sukigsx/MegaTools_gui)
 
-## EJECUTAR SCRIPTS
+## Ejecutar Scripts
 
 El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
 
@@ -31,14 +31,14 @@ Tambien permite la instalacion de los script de SUKIGSX, alojados en este reposi
 
 [Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts)
 
-## MONTAR UNIDADES
+## Montar Unidades
 
 Este script de Bash es un programa interactivo que proporciona una interfaz de usuario para configurar y gestionar el montaje automático de unidades compartidas de un servidor Samba en un sistema Linux.
 
 
 [Mas informacion del script](https://github.com/sukigsx/montar_unidades)
 
-## INSTALAR SOFTWARE
+## Instalar Software
 
 Este script esta pensado para la instalacion de software de forma automatizada.
 
@@ -55,7 +55,7 @@ Este script esta pensado para la instalacion de software de forma automatizada.
 
 [Mas informacion del script](https://github.com/sukigsx/instalar_software)
 
-## ALIAS_BASHRC
+## Alias Basshrc
 
 Este script en bash proporciona varias funciones para gestionar alias en un sistema Linux. Aquí está el resumen de lo que hace cada función:
 
@@ -73,14 +73,14 @@ Este script en bash proporciona varias funciones para gestionar alias en un sist
 
 [Mas informacion del script](https://github.com/sukigsx/alias_bashrc)
 
-## ORGANIZADOR DE FICHEROS
+## Organizar Ficheros
 
 Este script es útil para organizar archivos por tipo en diferentes carpetas dentro de un directorio de destino, facilitando la gestión y clasificación de los archivos.
 
 
 [Mas informacion del script](https://github.com/sukigsx/organizador_ficheros)
 
-## INTRUSOS
+## Intrusos
 
 Este script en Bash es un programa que permite comprobar la red local en busca de intrusos.
 
@@ -99,7 +99,7 @@ Opciones del menu principal:
 
 [Mas informacion del script](https://github.com/sukigsx/intrusos)
 
-## DISPOSITIVOS CONECTADOS
+## Dispositivos Conectados
 
 Este script en bash es una herramienta de administración para verificar el estado de dispositivos en una red.
 
@@ -124,7 +124,7 @@ Opciones del Menú:
 
 [Mas informacion del script](https://github.com/sukigsx/dispositivos_conectados)
 
-## CONFIGURAR SSHD
+## Configurar Sshd
 
 Este script en Bash es para configurar opciones específicas del servidor SSH de una manera interactiva. A continuación, se proporciona una descripción detallada de su funcionamiento:
 
