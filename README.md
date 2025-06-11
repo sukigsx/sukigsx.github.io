@@ -5,7 +5,7 @@ Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 
 -----------------------
 
-## GestionConexionesSsh
+## Gestion Conexiones Ssh
 
 Este script en Bash está diseñado para gestionar múltiples conexiones SSH de forma interactiva, ofreciendo funcionalidades como:
 
@@ -31,7 +31,7 @@ Es especialmente útil en entornos educativos, pequeñas oficinas o para usuario
 
 [Mas informacion del script](https://github.com/sukigsx/LinuxUserManager)
 
-## MegaTools_gui
+## MegaTools gui
 
 Esta utilidad desarrollada en bash proporciona una forma conveniente para que el usuario interactúe con el programa.
 Seleccionando opciones del menú y realizando diferentes tareas relacionadas con la gestión del sistema y la obtención de información.
@@ -90,13 +90,6 @@ Este script en bash proporciona varias funciones para gestionar alias en un sist
 
 
 [Mas informacion del script](https://github.com/sukigsx/alias_bashrc)
-
-## Organizar Ficheros
-
-Este script es útil para organizar archivos por tipo en diferentes carpetas dentro de un directorio de destino, facilitando la gestión y clasificación de los archivos.
-
-
-[Mas informacion del script](https://github.com/sukigsx/organizador_ficheros)
 
 ## Intrusos
 
@@ -157,7 +150,7 @@ Se iran añadiendo nuevas opciones al menu
 
 [Mas informacion del script](https://github.com/sukigsx/configurar_sshd)
 
-## organizador_ficheros
+## Organizador Ficheros
 
 Este script es útil para organizar archivos por tipo de extension en diferentes carpetas dentro de un directorio de destino, facilitando la gestión y clasificación de los archivos.
 
@@ -194,6 +187,7 @@ El script acepta **cuatro parámetros** en línea de comandos:
 | `copiar` \| `mover` | Acción sobre los archivos                                 | `mover`                           |
 | `borrar_si` \| `borrar_no`| Eliminar o conservar la carpeta de origen           | `borrar_si`                       |
 
+[Mas informacion del script](https://github.com/sukigsx/organizador_ficheros)
 
 ## Cloudflare_ddns
 
