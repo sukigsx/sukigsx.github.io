@@ -224,13 +224,21 @@ Si tienes varios usuarios en tu equipo Linux (Debian o basado en Debian), esta h
 
 La diseñé para bloquear la ejecución de programas que no quiero que mis hijos puedan abrir, pero también puede usarse para gestionar permisos de ejecución en entornos multiusuario o de trabajo.
 
-Instalacion
-Clonar el repositorio y ejecutar ssh-manager.sh
+[Mas informacion del script](https://github.com/sukigsx/ControlAplicacionesLinux.git)
 
-git clone https://github.com/sukigsx/ControlAplicacionesLinux.git
-Tambien puedes utilizar mi script (ejecutar_scripts).
+## Ssh-Manager
 
-git clone https://github.com/sukigsx/ejecutar_scripts.git
+- Gestionar conexiones SSH de múltiples servidores.
+
+- Generar y distribuir claves públicas SSH automáticamente.
+
+- Conectarse a los servidores desde nuevas terminales.
+
+- Revocar accesos cuando ya no se desee conectar.
+
+- Comprobar dependencias y actualizarse automáticamente desde GitHub.
+
+[Mas informacion del script](https://github.com/sukigsx/ssh-manager.git)
 
 # Soporte y Contacto
 
