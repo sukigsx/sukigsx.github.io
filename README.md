@@ -14,14 +14,6 @@ Es especialmente útil en entornos educativos, pequeñas oficinas o para usuario
 
 [Mas informacion del script](https://github.com/sukigsx/LinuxUserManager)
 
-## MegaTools gui
-
-Esta utilidad desarrollada en bash proporciona una forma conveniente para que el usuario interactúe con el programa.
-Seleccionando opciones del menú y realizando diferentes tareas relacionadas con la gestión del sistema y la obtención de información.
-
-
-[Mas informacion del script](https://github.com/sukigsx/MegaTools_gui)
-
 ## Ejecutar Scripts
 
 El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
