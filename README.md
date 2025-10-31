@@ -3,24 +3,7 @@ Buenas a todos, en esta pagina encontraras scripts desarrollados en Bash, los cu
 
 Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 
------------------------
-
-## Gestion Conexiones Ssh
-
-Este script en Bash está diseñado para gestionar múltiples conexiones SSH de forma interactiva, ofreciendo funcionalidades como:
-
-Verificar si hay conexión a internet.
-- Asegurar que el software necesario esté instalado (ssh, fzf, gnome-terminal, etc.).
-- Descargar la versión más reciente del script desde GitHub.
-- Detectar el emulador de terminal gráfico disponible en el sistema.
-- Gestionar una lista de servidores SSH guardados en ~/.ssh_server_list.
-- Generar claves SSH y copiarlas al servidor si no existen.
-- Usar fzf para seleccionar uno o varios servidores y abrir conexiones en nuevas terminales.
-
-Ofrecer un menú interactivo con opciones como conectar, agregar, editar, eliminar servidores, hacer backups, restaurarlos, y crear un alias para acceso rápido.
-Además, incluye manejo de señales como Ctrl+C para salir limpiamente, y está pensado para ser fácil de usar incluso si no se tiene mucha experiencia con Bash.
-
-[Mas informacion del script](https://github.com/sukigsx/GestorConexionesSsh)
+## 
 
 ## Linux User Manager
 
