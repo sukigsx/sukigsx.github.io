@@ -14,6 +14,12 @@ Es especialmente útil en entornos educativos, pequeñas oficinas o para usuario
 
 [Mas informacion del script](https://github.com/sukigsx/LinuxUserManager)
 
+## BackupManager
+
+Este script es una herramienta interactiva para gestionar copias de seguridad (backups) usando rsync, tanto locales como remotas, y con soporte opcional de notificaciones por Telegram.
+
+[Mas informacion del script](https://github.com/sukigsx/BackupManager)
+
 ## Ejecutar Scripts
 
 El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
