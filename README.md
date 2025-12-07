@@ -3,6 +3,12 @@ Buenas a todos, en esta pagina encontraras scripts desarrollados en Bash, los cu
 
 Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 
+## CronManager
+Un script interactivo en Bash que permite gestionar fácilmente el crontab del usuario, sin necesidad de recordar la sintaxis de cron.
+Incluye un menú con colores, validaciones, ayuda integrada y soporte para borrar varias tareas a la vez.
+
+[Mas informacion del script](https://github.com/sukigsx/CronManager)
+
 ## Linux User Manager
 
 Este script en **Bash** es una herramienta interactiva para gestionar usuarios, carpetas compartidas, permisos y configuración de **Samba** en sistemas **Linux**.
