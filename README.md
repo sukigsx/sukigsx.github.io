@@ -58,23 +58,21 @@ Este script esta pensado para la instalacion de software de forma automatizada.
 
 [Mas informacion del script](https://github.com/sukigsx/instalar_software)
 
-## Alias Basshrc modificar este aqui el nuevo
+## ManagerAliasFuncionesBashrc
 
-Este script en bash proporciona varias funciones para gestionar alias en un sistema Linux. Aquí está el resumen de lo que hace cada función:
+Herramienta de creacios de alias y funciones para tu bashrc
 
-- opciones_alias
-- actualizar_alias
-- desistalar_alias
-- listar_alias
-- crear_alias
-- borrar_alias
-- editar fichero de alias
-- menu_alias
-- backup_alias
-- restore_alias
+- Crear aliases
+- Crear funciones bash (interactivamente)
+- Borrar aliases y funciones con selector fzf
+- Listar aliases y funciones en tiempo real
+- Hacer backup de aliases y funciones
+- Restaurar backups evitando duplicados
+- Todo con interfaz visual, colores y preview
 
+Es más que un simple script: es una herramienta de administración del entorno Bash.
 
-[Mas informacion del script](https://github.com/sukigsx/alias_bashrc)
+[Mas informacion del script](https://github.com/sukigsx/ManagerAliasFuncionesBashrc)
 
 ## Intrusos
 
