@@ -58,7 +58,7 @@ Este script esta pensado para la instalacion de software de forma automatizada.
 
 [Mas informacion del script](https://github.com/sukigsx/instalar_software)
 
-## Alias Basshrc
+## Alias Basshrc modificar este aqui el nuevo
 
 Este script en bash proporciona varias funciones para gestionar alias en un sistema Linux. Aquí está el resumen de lo que hace cada función:
 
