@@ -13,12 +13,12 @@ Incluye un menú con colores, validaciones, ayuda integrada y soporte para borra
 Es un gestor de copias de seguridad (backups) hecho en Bash.
 
 Permite:
-Crear tareas de copia
-Ejecutarlas
-Borrarlas
-Exportar la configuración
-Enviar avisos por Telegram
-Usarlo con menú interactivo o por comandos
+- Crear tareas de copia
+- Ejecutarlas
+- Borrarlas
+- Exportar la configuración
+- Enviar avisos por Telegram
+- Usarlo con menú interactivo o por comandos
 
 [Mas informacion del script](https://github.com/sukigsx/BackupManager)
 
