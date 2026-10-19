@@ -21,12 +21,16 @@ El repositorio incluye dos alternativas según tus necesidades: una versión en 
 
 ## DescargarYT
 
-Utilidad para descargar audio video y listas de reproduccion de youtube
-
 🚀 Descargador de YouTube y derivados.
 Una herramienta interactiva para la terminal de Linux que automatiza la descarga de videos y listas de reproducción de YouTube y derivados con menús visuales. Diseñado para ser rápido, eficiente y evitar el uso de comandos largos de memoria.
 
 [Mas informacion del script](https://github.com/sukigsx/DescargarYT)
+
+## ssh-manager
+
+🚀 Utilidad para gestionar conexiones SSH de múltiples servidores. Generar y distribuir claves públicas SSH automáticamente. Conectarse a los servidores desde nuevas terminales. Revocar accesos cuando ya no se desee conectar. Comprobar dependencias y actualizarse automáticamente desde GitHub.
+
+[Mas informacion del script](https://github.com/sukigsx/ssh-manager)
 
 # Soporte y Contacto
 
