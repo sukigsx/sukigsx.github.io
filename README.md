@@ -15,14 +15,13 @@ El repositorio incluye dos alternativas según tus necesidades: una versión en 
 git clone https://github.com/sukigsx/ControlAplicacionesLinux.git
 
 ### Descarga directa con WGET
-wget -O ControlAplicacionesLinux.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinux.sh
-
-wget -O ControlAplicacionesLinuxGui.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinuxGui.sh
-
-### prueba
 ```
-wget -O ControlAplicacionesLinux.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinux.sh
+wget -O ControlAplicacionesLinux.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinux.sh && chmod +x ControlAplicacionesLinuxGui.sh
 ```
+```
+wget -O ControlAplicacionesLinuxGui.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinuxGui.sh && chmod +x ControlAplicacionesLinuxGio.sh
+```
+
 
 # Soporte y Contacto
 
