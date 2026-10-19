@@ -11,7 +11,7 @@ El repositorio incluye dos alternativas según tus necesidades: una versión en 
 
 [Mas informacion del script](https://github.com/sukigsx/ControlAplicacionesLinux)
 
-## DescarYT
+## DescargarYT
 
 Utilidad para descargar audio video y listas de reproduccion de youtube
 
