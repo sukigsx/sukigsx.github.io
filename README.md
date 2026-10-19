@@ -11,7 +11,14 @@ El repositorio incluye dos alternativas según tus necesidades: una versión en 
 
 [Mas informacion del script](https://github.com/sukigsx/ControlAplicacionesLinux)
 
+## DescarYT
 
+Utilidad para descargar audio video y listas de reproduccion de youtube
+
+🚀 Descargador de YouTube y derivados.
+Una herramienta interactiva para la terminal de Linux que automatiza la descarga de videos y listas de reproducción de YouTube y derivados con menús visuales. Diseñado para ser rápido, eficiente y evitar el uso de comandos largos de memoria.
+
+[Mas informacion del script](https://github.com/sukigsx/DescargarYT)
 
 # Soporte y Contacto
 
