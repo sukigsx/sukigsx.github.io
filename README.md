@@ -19,6 +19,11 @@ wget -O ControlAplicacionesLinux.sh https://raw.githubusercontent.com/sukigsx/Co
 
 wget -O ControlAplicacionesLinuxGui.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinuxGui.sh
 
+### prueba
+```
+wget -O ControlAplicacionesLinux.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinux.sh
+```
+
 # Soporte y Contacto
 
 Puedes ponerte en contacto en mi [Correo Electronico](mailto:scripts@mbbsistemas.es).
