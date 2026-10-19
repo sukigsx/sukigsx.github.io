@@ -10,9 +10,14 @@ Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 El repositorio incluye dos alternativas según tus necesidades: una versión en consola ultra rápida basada en fzf y otra versión gráfica basada en zenity.
 
 [Mas informacion del script](https://github.com/sukigsx/ControlAplicacionesLinux)
-[Clonar repositorio](https://github.com/sukigsx/ControlAplicacionesLinux.git)
-[Descarga directa ControlAplicacionesLinux con WGET](wget -O ControlAplicacionesLinux.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinux.sh)
-[Descarga directa ControlAplicacionesLinixGui con WGET](wget -O ControlAplicacionesLinuxGui.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinuxGui.sh)
+
+### Clonar repositorio
+git clone https://github.com/sukigsx/ControlAplicacionesLinux.git
+
+### Descarga directa con WGET
+wget -O ControlAplicacionesLinux.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinux.sh
+
+wget -O ControlAplicacionesLinuxGui.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinuxGui.sh
 
 # Soporte y Contacto
 
