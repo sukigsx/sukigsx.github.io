@@ -3,6 +3,14 @@ Buenas a todos, en esta pagina encontraras scripts desarrollados en Bash, los cu
 
 Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 
+## Ejecutar_scripts
+
+🐧 El script proporcionado es una herramienta interactiva que permite a los usuarios ejecutar scripts Bash almacenados en un directorio específico.
+
+Tambien permite la instalacion de los script de SUKIGSX, alojados en este repositorio.
+
+[Mas informacion del script](https://github.com/sukigsx/ejecutar_scripts)
+
 ## ControlAplicacionesLinux
 
 🐧 Linux App Access & ACL Manager Conjunto de scripts en Bash diseñados para administrar y restringir el acceso a aplicaciones en sistemas Linux utilizando Listas de Control de Acceso (ACLs a través de setfacl/getfacl).
