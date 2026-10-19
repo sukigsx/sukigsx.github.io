@@ -3,7 +3,7 @@ Buenas a todos, en esta pagina encontraras scripts desarrollados en Bash, los cu
 
 Espero os gusten y que os sean utiles para realizar vuestras tareas y gestiones.
 
-## ControlAplicacionesLinix
+## ControlAplicacionesLinux
 
 🐧 Linux App Access & ACL Manager Conjunto de scripts en Bash diseñados para administrar y restringir el acceso a aplicaciones en sistemas Linux utilizando Listas de Control de Acceso (ACLs a través de setfacl/getfacl).
 
@@ -11,16 +11,6 @@ El repositorio incluye dos alternativas según tus necesidades: una versión en 
 
 [Mas informacion del script](https://github.com/sukigsx/ControlAplicacionesLinux)
 
-### Clonar repositorio
-git clone https://github.com/sukigsx/ControlAplicacionesLinux.git
-
-### Descarga directa con WGET
-```
-wget -O ControlAplicacionesLinux.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinux.sh && chmod +x ControlAplicacionesLinuxGui.sh
-```
-```
-wget -O ControlAplicacionesLinuxGui.sh https://raw.githubusercontent.com/sukigsx/ControlAplicacionesLinux/refs/heads/main/ControlAplicacionesLinuxGui.sh && chmod +x ControlAplicacionesLinuxGio.sh
-```
 
 
 # Soporte y Contacto
