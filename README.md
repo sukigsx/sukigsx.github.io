@@ -61,7 +61,7 @@ Permite:
 [Mas informacion del script](https://github.com/sukigsx/BackupManager)
 
 
-## LinuxUserManager
+## Configurar_sshd
 
 🚀 Este script en Bash es para configurar opciones específicas del servidor SSH de una manera interactiva. A continuación, se proporciona una descripción detallada de su funcionamiento:
 
