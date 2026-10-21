@@ -38,6 +38,28 @@ Una herramienta interactiva para la terminal de Linux que automatiza la descarga
 
 [Mas informacion del script](https://github.com/sukigsx/LinuxUserManager)
 
+## BackupManager
+
+🚀 Es un gestor de copias de seguridad (backups) hecho en Bash.
+
+Permite:
+
+✅ Crear tareas de copia
+
+▶️ Ejecutarlas
+
+❌ Borrarlas
+
+📤 Exportar la configuración
+
+📩 Enviar avisos por Telegram
+
+🖥️ Usarlo con menú interactivo o por comandos
+
+🚀 Este script en Bash es una herramienta interactiva para gestionar usuarios, carpetas compartidas, permisos y configuración de Samba en sistemas Linux.
+
+[Mas informacion del script](https://github.com/sukigsx/BackupManager)
+
 # Soporte y Contacto
 
 Puedes ponerte en contacto en mi [Correo Electronico](mailto:scripts@mbbsistemas.es).
