@@ -32,6 +32,12 @@ Una herramienta interactiva para la terminal de Linux que automatiza la descarga
 
 [Mas informacion del script](https://github.com/sukigsx/ssh-manager)
 
+## LinuxUserManager
+
+🚀 Este script en Bash es una herramienta interactiva para gestionar usuarios, carpetas compartidas, permisos y configuración de Samba en sistemas Linux.
+
+[Mas informacion del script](https://github.com/sukigsx/LinuxUserManager)
+
 # Soporte y Contacto
 
 Puedes ponerte en contacto en mi [Correo Electronico](mailto:scripts@mbbsistemas.es).
