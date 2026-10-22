@@ -26,6 +26,14 @@ Una herramienta interactiva para la terminal de Linux que automatiza la descarga
 
 [Mas informacion del script](https://github.com/sukigsx/DescargarYT)
 
+
+## CronManager
+
+🚀 Un script interactivo en Bash que permite gestionar fácilmente el crontab del usuario, sin necesidad de recordar la sintaxis de cron.
+Incluye un menú con colores, validaciones, ayuda integrada y soporte para borrar varias tareas a la vez.
+
+[Mas informacion del script](https://github.com/sukigsx/CronManager)
+
 ## ssh-manager
 
 🚀 Utilidad para gestionar conexiones SSH de múltiples servidores. Generar y distribuir claves públicas SSH automáticamente. Conectarse a los servidores desde nuevas terminales. Revocar accesos cuando ya no se desee conectar. Comprobar dependencias y actualizarse automáticamente desde GitHub.
