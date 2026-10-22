@@ -34,6 +34,14 @@ Incluye un menú con colores, validaciones, ayuda integrada y soporte para borra
 
 [Mas informacion del script](https://github.com/sukigsx/CronManager)
 
+
+## OrganizadorFicheros
+
+🚀 Este script es útil para organizar archivos por tipo de extension en diferentes carpetas dentro de un directorio de destino, facilitando la gestión y clasificación de los archivos.
+
+[Mas informacion del script](https://github.com/sukigsx/organizador_ficheros/tree/main)
+
+
 ## ssh-manager
 
 🚀 Utilidad para gestionar conexiones SSH de múltiples servidores. Generar y distribuir claves públicas SSH automáticamente. Conectarse a los servidores desde nuevas terminales. Revocar accesos cuando ya no se desee conectar. Comprobar dependencias y actualizarse automáticamente desde GitHub.
