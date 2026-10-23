@@ -42,6 +42,12 @@ Incluye un menú con colores, validaciones, ayuda integrada y soporte para borra
 [Mas informacion del script](https://github.com/sukigsx/organizador_ficheros/tree/main)
 
 
+## Dispositivos conectados
+
+🚀 Este script en bash es una herramienta de administración para verificar el estado de dispositivos en una red.
+
+[Mas informacion del script](https://github.com/sukigsx/dispositivos_conectados)
+
 ## ssh-manager
 
 🚀 Utilidad para gestionar conexiones SSH de múltiples servidores. Generar y distribuir claves públicas SSH automáticamente. Conectarse a los servidores desde nuevas terminales. Revocar accesos cuando ya no se desee conectar. Comprobar dependencias y actualizarse automáticamente desde GitHub.
